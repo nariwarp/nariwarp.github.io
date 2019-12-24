@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1333 878" style="enable-background:new 0 0 1333 878;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0600EA;}
+	.st1{fill:#E689FF;}
+	.st2{fill:#00BFEA;}
+</style>
+<g id="Layer_3">
+	
+		<image style="overflow:visible;opacity:0.28;enable-background:new    ;" width="1306" height="821" id="Nari" xlink:href="9F477BCF.png"  transform="matrix(1 0 0 1 14 41)">
+	</image>
+	<path class="st0" d="M636,505l-59.5,63.5L467,475.6c0,0,78-30.6,91-84.6c12.8-53.2-13.3-96.4-58-106c-28-6-85,25-85,25s37-58,92-66
+		c54.5-7.9,102,10,143,65c22.4,30.1,30,155,34,178S636,505,636,505z"/>
+	<path class="st0" d="M395,537.4l-80.5,17.4c0,0-90.8-13.5-129.5-34.6c-67.4-36.7-69-89.3-14.9-113.8c23.4-10.6,41.9-8,57.9,9.5
+		c21.9,23.9,10.9,47.8,10.9,47.8s1.8-23.2-23.2-28.9c-27.6-6.2-42,13.5-18.7,24.7c26.1,12.6,68.9,11.1,108.8,25.9
+		S395,537.4,395,537.4z"/>
+	<path class="st1" d="M574.2,582l-17,54.2h-175l-54.8-101.7c0,0-4.7-57-101.4-109.5c-81-44-50.6-163,9.2-191
+		c54.4-25.4,107,15,107,15s-67.2-23.4-97,19c-19.2,27.2-12,77,32,94c61.8,23.9,130.4,24.1,187.8,55c64,34.5,102.2,106,109.2,139
+		S574.2,582,574.2,582z"/>
+	<path class="st2" d="M667,721.9c0,0-143.8,168.8-302,0C275,625.9,193,543,106,557c-83.4,13.4-34,85.4,1,103.9
+		c0,0-99.9-25.9-88.9-94.9s72-85,111.9-89c70-7,130,10.9,219,72c109.3,75,159,94,202,65s48-72.1,79-77.1s79,77,87,109
+		S667,721.9,667,721.9z"/>
+	<circle class="st0" cx="1063.5" cy="404.2" r="71.5"/>
+	<ellipse class="st0" cx="938" cy="378.7" rx="135.5" ry="108.3"/>
+	<circle class="st0" cx="1206.5" cy="785.5" r="1.5"/>
+	<ellipse class="st0" cx="1082.5" cy="520.2" rx="122.5" ry="116"/>
+	<ellipse class="st0" cx="1042.5" cy="648" rx="97.5" ry="84"/>
+	<path class="st0" d="M1290.6,439c0,0-15.6-60.3-66.6-50c-77.6,15.7-38.4,118-38.4,118l-72-76.1c0,0,27-91.9,93-92.9
+		S1311.6,386,1290.6,439z"/>
+</g>
+<g id="Behind">
+</g>
+<g id="Base">
+	
+		<image style="overflow:visible;enable-background:new    ;" width="1006" height="804" id="Skin_Shading" xlink:href="9F477BCD.png"  transform="matrix(1 0 0 1 206 23)">
+	</image>
+</g>
+<g id="Top">
+	<path class="st0" d="M1038,679c45,23-41,287-322,153c-118.2-56.4-122-120-215-114s-164,92-164,92s119-168,214-155
+		s147.6,55.9,221,77c87,25,203.3-23.6,213.3-56.6L1038,679z"/>
+</g>
+</svg>
