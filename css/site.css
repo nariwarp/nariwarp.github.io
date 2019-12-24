@@ -339,7 +339,7 @@
      background-color: #37a2db;
      border: none;
      height: 4px;
-     width: 40%;
+     width: 30%;
      border-radius: 2px;
      margin: 25px 0;
 }
@@ -415,7 +415,7 @@
      background-color: #37a2db;
      border: none;
      height: 4px;
-     width: 40%;
+     width: 30%;
      border-radius: 2px;
      margin: 25px 0;
 }
@@ -432,7 +432,7 @@
      background-color: #37a2db;
      border: none;
      height: 4px;
-     width: 40%;
+     width: 30%;
      border-radius: 2px;
      margin: 25px 0;
 }
@@ -506,7 +506,7 @@
      background-color: #37a2db;
      border: none;
      height: 4px;
-     width: 40%;
+     width: 30%;
      border-radius: 2px;
      margin: auto;
      margin-top: 25px;
@@ -526,7 +526,7 @@
      background-color: #37a2db;
      border: none;
      height: 4px;
-     width: 40%;
+     width: 30%;
      border-radius: 2px;
      margin: auto;
      margin-top: 25px;
@@ -584,14 +584,14 @@
      margin: auto;
      margin-top: 82px;
      background-color: white;
-     padding: 30px 20px 30px 20px;
+     padding: 30px 20px;
      text-align: center;
 }
  #terms hr {
      background-color: #37a2db;
      border: none;
      height: 4px;
-     width: 40%;
+     width: 30%;
      border-radius: 2px;
      margin: auto;
      margin-top: 25px;
@@ -644,15 +644,17 @@
  #contact {
      margin: auto;
      margin-top: 82px;
+     margin-bottom: 90px;
+     max-width: 1280px;
      background-color: white;
-     padding: 30px 20px 30px 20px;
+     padding: 30px 20px 0 20px;
      text-align: center;
 }
  #contact hr {
      background-color: #37a2db;
      border: none;
      height: 4px;
-     width: 40%;
+     width: 30%;
      border-radius: 2px;
      margin: auto;
      margin-top: 25px;
@@ -1024,7 +1026,7 @@
          background-color: #37a2db;
          border: none;
          height: 4px;
-         width: 40%;
+         width: 30%;
          border-radius: 2px;
          margin: 25px auto;
     }
@@ -1220,7 +1222,7 @@
          text-align: center;
          display: grid;
          grid-template-columns: 100%;
-         grid-template-rows: 22% 25% 15% 40%;
+         grid-template-rows: 22% 25% 15% 30%;
          grid-row-gap: 20px;
     }
      .footer_social img {
