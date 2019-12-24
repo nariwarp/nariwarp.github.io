@@ -544,13 +544,12 @@
      font-weight: bold;
      font-size: 1.2em;
      text-transform: uppercase;
+     margin-bottom: 50px;
 }
  .commission_info {
      text-align: left;
-     line-height: 2em;
+     line-height: 4em;
      max-width: 1280px;
-     display: grid;
-     grid-template-columns: 1fr 1fr;
 }
  .commission_info_terms {
      text-align: center;
